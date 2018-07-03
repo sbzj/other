@@ -1,0 +1,35 @@
+﻿#忽略windows生成的缩略图文件
+Thunbs.db
+#忽略Visual Studio生成时的产生的文件
+*.user
+*.aps
+*.pch
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+[Bb]in
+[Dd]ebug*/
+*.lib
+*.sbr
+obj/
+[Rr]elease*/
+_ReSharper*/
+#Ignore thumbnails created by Windows
+Thumbs.db
+#Ignore files built by Visual Studio
+*.obj
+*.exe
+*.pdb
+[Tt]est[Rr]esult*
+.vs/
+#Nuget packages folder
+packages/
+*.orig
